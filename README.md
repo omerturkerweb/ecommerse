@@ -1,3 +1,18 @@
+
+# E-commerse Demo project 
+
+I made it E-commerse Demo project with React  it has so many lack i'll reupdate soon .
+
+## Used Technologies
+
+- React
+- Javascript
+- CSS3
+
+
+## Screenshot
+
+![Logo](https://img001.prntscr.com/file/img001/MTiPgk9CR9meltDkLixJ3w.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
